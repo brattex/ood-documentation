@@ -7,7 +7,7 @@ Cluster configuration files describe each cluster a user may submit jobs to and 
 These files detail how the system can interact with your scheduler. Without them, many of the features in 
 Open OnDemand won't work - including interactive apps.
 
-Indeed, one of the main reasons to use Open OnDemand is use your clusters interactively.
+Indeed, one of the main reasons to use Open OnDemand is to use your clusters interactively.
 
 Apps that require proper cluster configuration include:
 
